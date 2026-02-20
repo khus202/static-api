@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "email": "24f2007798@ds.study.iitm.ac.in",
+    "version": "6dde4d43"
+  },
+  "products": [
+    { "id": "prod-6dde4d43-001", "name": "Premium Item 1", "category": "clothing", "price": 278.23, "stock": 184, "rating": 1.2 },
+    { "id": "prod-6dde4d43-002", "name": "Premium Item 2", "category": "books", "price": 160.93, "stock": 187, "rating": 2.2 },
+    { "id": "prod-6dde4d43-003", "name": "Elite Item 3", "category": "sports", "price": 201.39, "stock": 68, "rating": 3.3 },
+    { "id": "prod-6dde4d43-004", "name": "Pro Item 4", "category": "clothing", "price": 117.15, "stock": 36, "rating": 1.8 },
+    { "id": "prod-6dde4d43-005", "name": "Basic Item 5", "category": "home", "price": 258.61, "stock": 143, "rating": 4.9 },
+    { "id": "prod-6dde4d43-006", "name": "Basic Item 6", "category": "sports", "price": 229.12, "stock": 190, "rating": 1.1 },
+    { "id": "prod-6dde4d43-007", "name": "Pro Item 7", "category": "sports", "price": 191.41, "stock": 136, "rating": 2.8 },
+    { "id": "prod-6dde4d43-008", "name": "Basic Item 8", "category": "clothing", "price": 75.52, "stock": 40, "rating": 4.9 },
+    { "id": "prod-6dde4d43-009", "name": "Pro Item 9", "category": "clothing", "price": 279.36, "stock": 117, "rating": 2.6 },
+    { "id": "prod-6dde4d43-010", "name": "Basic Item 10", "category": "sports", "price": 43.84, "stock": 74, "rating": 3.2 },
+    { "id": "prod-6dde4d43-011", "name": "Elite Item 11", "category": "books", "price": 393.01, "stock": 12, "rating": 4.0 },
+    { "id": "prod-6dde4d43-012", "name": "Standard Item 12", "category": "clothing", "price": 203.97, "stock": 155, "rating": 2.6 },
+    { "id": "prod-6dde4d43-013", "name": "Pro Item 13", "category": "electronics", "price": 493.16, "stock": 28, "rating": 4.9 },
+    { "id": "prod-6dde4d43-014", "name": "Pro Item 14", "category": "books", "price": 299.37, "stock": 15, "rating": 2.0 },
+    { "id": "prod-6dde4d43-015", "name": "Basic Item 15", "category": "electronics", "price": 121.56, "stock": 49, "rating": 4.9 }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 19764.92
+    }
+  }
+}
